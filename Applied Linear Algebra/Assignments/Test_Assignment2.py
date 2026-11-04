@@ -1,7 +1,7 @@
 
 import numpy as np
 
-from main import (
+from Assignment2 import (
     TAGS,
     Vector,
     preprocess_text,
